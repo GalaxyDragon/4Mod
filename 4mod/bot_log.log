@@ -1,0 +1,1857 @@
+[05.02.2018 15:18:46] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:46] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:46] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:46] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:46] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:47] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:47] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:48] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:48] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:48] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:49] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:49] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:49] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:49] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:49] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:50] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:50] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:50] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:50] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:50] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:51] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:51] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:51] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:51] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:51] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:52] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:52] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:53] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:53] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:53] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:54] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:54] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:54] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:54] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:54] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:55] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:55] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:55] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:55] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:55] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:56] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:56] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:56] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:56] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:56] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:57] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:57] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:58] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:58] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:58] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:18:59] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:18:59] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:18:59] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:18:59] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:18:59] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:19:00] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:19:00] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:19:00] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:19:00] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:19:00] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:19:01] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:19:01] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:19:01] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:19:01] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:19:01] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:19:02] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:19:02] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:19:03] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:19:03] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:19:03] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:19:04] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:19:04] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:19:04] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:19:04] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:19:04] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:19:05] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:19:05] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:19:54] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:19:54] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:20:43] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:20:43] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:20:43] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:20:43] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:20:43] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:20:44] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:20:44] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:20:45] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:20:45] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:20:45] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:20:46] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:20:46] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:20:46] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:20:46] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:20:46] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:20:47] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:20:47] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:20:47] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:20:47] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:20:47] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:21:07] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:21:07] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:21:09] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:21:12] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:21:12] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:21:14] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:21:14] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:22:02] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:22:02] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:23:41] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:23:41] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:23:47] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:23:48] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:23:48] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:37:52] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:37:52] main.py:50 INFO - Last ID (VK) = 9999999999999999999999
+[05.02.2018 15:37:52] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:37:52] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:37:52] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:37:53] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:37:53] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:37:53] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:37:53] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:37:53] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:37:54] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:37:54] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:37:54] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:37:54] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:37:54] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:37:55] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:37:55] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:37:56] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:37:56] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:37:56] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:37:57] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:37:57] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:37:57] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:37:57] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:37:57] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:37:58] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:37:58] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:37:58] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:37:58] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:37:58] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:37:59] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:37:59] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:37:59] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:37:59] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:37:59] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:00] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:00] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:01] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:01] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:01] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:02] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:02] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:02] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:02] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:02] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:03] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:03] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:03] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:03] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:03] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:04] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:04] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:04] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:04] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:04] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:05] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:05] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:05] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:05] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:05] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:06] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:06] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:07] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:07] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:07] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:08] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:08] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:08] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:08] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:08] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:09] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:09] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:09] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:09] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:09] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:10] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:10] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:10] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:10] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:10] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:11] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:11] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:12] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:12] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:12] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:13] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:13] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:13] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:13] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:13] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:14] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:14] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:14] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:14] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:14] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:15] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:15] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:15] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:15] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:15] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:16] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:16] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:17] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:17] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:17] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:18] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:18] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:18] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:18] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:18] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:19] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:19] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:19] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:19] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:19] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:20] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:20] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:20] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:20] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:20] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:21] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:21] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:22] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:22] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:22] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:23] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:23] main.py:50 INFO - Last ID (VK) = 182801
+[05.02.2018 15:38:23] main.py:72 INFO - New last_id (VK) is 182801
+[05.02.2018 15:38:23] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:38:23] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:38:51] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:38:51] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:40:19] main.py:74 ERROR - Exception of type TypeError in check_new_post(): must be str, not int
+[05.02.2018 15:40:19] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:40:59] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:40:59] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:39] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:39] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:41] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: failed to get HTTP URL content"}']
+[05.02.2018 15:42:41] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:41] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:42:42] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:42] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:43] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:42:43] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:43] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:42:44] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:44] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:44] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:42:44] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:44] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:42:45] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:45] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:45] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:42:45] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:45] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:42:46] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:46] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:47] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:42:47] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:47] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:42:48] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:48] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:48] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:42:48] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:48] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:42:49] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:49] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:49] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:42:49] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:49] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:42:50] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:50] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:51] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:42:51] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:51] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:42:52] main.py:44 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:42:52] main.py:50 INFO - Last ID (VK) = 1
+[05.02.2018 15:42:52] main.py:74 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:42:52] main.py:76 INFO - [VK] Finished scanning
+[05.02.2018 15:42:52] main.py:89 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:23] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:23] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:23] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:23] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:23] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:24] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:24] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:24] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:24] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:24] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:25] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:25] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:26] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:26] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:26] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:27] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:27] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:27] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:27] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:27] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:28] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:28] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:29] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:29] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:29] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:30] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:30] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:30] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:30] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:30] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:31] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:31] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:31] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:31] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:31] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:32] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:32] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:33] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:33] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:33] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:34] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:34] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:34] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:34] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:34] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 15:43:35] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 15:43:35] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 15:43:35] main.py:75 ERROR - Exception of type ApiException in check_new_post(): A request to the Telegram API was unsuccessful. The server returned HTTP 400 Bad Request. Response body:
+[b'{"ok":false,"error_code":400,"description":"Bad Request: wrong file identifier/HTTP URL specified"}']
+[05.02.2018 15:43:35] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 15:43:35] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:01:05] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:01:05] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 20:04:28] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:28] main.py:51 INFO - Last ID (VK) = 1
+[05.02.2018 20:04:30] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:30] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:30] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:31] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:31] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:31] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:31] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:31] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:32] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:32] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:32] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:32] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:32] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:33] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:33] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:34] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:34] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:34] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:35] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:35] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:35] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:35] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:35] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:36] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:36] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:36] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:36] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:36] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:37] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:37] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:37] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:37] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:37] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:38] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:38] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:39] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:39] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:39] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:40] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:40] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:40] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:40] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:40] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:41] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:41] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:41] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:41] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:41] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:42] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:42] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:42] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:42] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:42] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:43] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:43] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:44] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:44] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:44] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:45] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:45] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:45] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:45] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:45] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:46] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:46] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:46] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:46] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:46] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:47] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:47] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:48] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:48] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:48] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:49] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:49] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:49] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:49] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:49] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:50] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:50] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:50] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:50] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:50] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:51] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:51] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:51] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:51] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:51] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:52] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:52] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:53] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:53] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:53] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:54] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:54] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:54] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:54] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:54] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:55] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:55] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:55] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:55] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:55] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:56] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:56] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:56] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:56] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:56] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:57] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:57] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:58] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:58] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:58] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:04:59] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:04:59] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:04:59] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:04:59] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:04:59] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:00] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:00] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:00] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:00] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:00] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:01] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:01] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:01] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:01] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:01] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:02] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:02] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:03] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:03] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:03] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:04] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:04] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:04] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:04] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:04] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:05] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:05] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:05] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:05] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:05] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:06] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:06] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:06] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:06] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:06] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:07] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:07] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:07] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:07] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:07] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:08] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:08] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:09] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:09] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:09] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:10] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:10] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:10] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:10] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:10] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:11] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:11] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:11] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:11] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:11] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:12] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:12] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:12] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:12] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:12] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:13] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:13] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:14] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:14] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:14] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:15] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:15] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:15] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:15] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:15] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:16] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:16] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:16] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:16] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:16] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:17] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:17] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:17] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:17] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:17] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:18] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:18] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:18] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:18] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:18] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:19] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:19] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:20] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:20] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:20] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:21] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:21] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:21] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:21] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:21] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:22] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:22] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:22] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:22] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:22] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:23] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:23] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:23] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:23] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:23] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:24] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:24] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:25] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:25] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:25] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:26] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:26] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:26] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:26] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:26] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:27] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:27] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:27] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:27] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:27] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:28] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:28] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:28] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:28] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:28] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:29] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:29] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:29] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:29] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:29] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:30] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:30] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:31] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:31] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:31] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:32] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:32] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:32] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:32] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:32] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:33] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:33] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:33] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:33] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:33] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:34] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:34] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:34] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:34] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:34] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:35] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:35] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:36] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:36] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:36] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:37] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:37] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:37] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:37] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:37] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:38] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:38] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:38] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:38] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:38] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:39] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:39] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:39] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:39] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:39] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:40] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:40] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:41] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:41] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:41] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:42] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:42] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:42] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:42] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:42] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:43] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:43] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:43] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:43] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:43] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:44] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:44] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:44] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:44] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:44] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:45] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:45] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:45] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:45] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:45] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:46] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:46] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:47] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:47] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:47] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:48] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:48] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:48] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:48] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:48] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:49] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:49] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:49] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:49] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:49] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:50] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:50] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:50] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:50] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:50] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:51] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:51] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:51] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:51] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:51] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:52] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:52] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:53] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:53] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:53] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:54] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:54] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:54] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:54] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:54] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:55] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:55] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:55] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:55] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:55] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:56] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:56] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:56] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:56] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:56] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:57] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:57] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:58] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:58] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:58] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:05:59] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:05:59] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:05:59] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:05:59] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:05:59] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:00] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:00] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:00] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:00] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:00] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:01] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:01] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:01] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:01] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:01] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:02] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:02] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:02] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:03] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:03] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:04] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:04] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:04] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:04] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:04] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:05] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:05] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:05] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:05] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:05] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:06] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:06] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:06] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:06] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:06] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:07] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:07] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:07] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:07] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:07] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:08] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:08] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:09] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:09] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:09] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:10] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:10] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:10] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:10] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:10] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:11] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:11] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:11] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:11] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:11] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:12] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:12] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:12] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:12] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:12] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:13] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:13] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:13] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:13] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:13] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:14] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:14] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:15] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:15] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:15] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:16] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:16] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:16] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:16] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:16] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:17] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:17] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:17] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:17] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:17] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:18] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:18] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:18] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:18] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:18] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:19] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:19] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:20] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:20] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:20] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:21] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:21] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:21] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:21] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:21] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:22] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:22] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:22] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:22] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:22] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:23] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:23] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:23] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:23] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:23] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:24] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:24] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:24] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:24] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:24] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:25] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:25] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:26] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:26] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:26] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:27] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:27] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:27] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:27] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:27] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:28] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:28] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:28] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:28] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:28] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:29] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:29] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:29] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:29] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:29] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:30] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:30] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:31] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:31] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:31] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:32] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:32] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:32] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:32] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:32] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:33] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:33] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:33] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:33] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:33] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:34] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:34] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:34] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:34] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:34] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:35] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:35] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:36] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:36] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:36] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:37] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:37] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:37] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:37] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:37] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:38] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:38] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:38] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:38] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:38] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:39] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:39] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:39] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:39] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:39] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:40] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:40] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:40] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:40] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:40] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:41] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:41] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:42] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:42] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:42] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:43] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:43] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:43] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:43] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:43] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:44] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:44] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:44] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:44] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:44] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:45] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:45] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:46] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:46] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:46] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:47] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:47] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:48] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:48] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:48] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:49] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:49] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:49] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:49] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:49] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:50] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:50] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:50] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:50] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:50] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:51] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:51] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:51] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:51] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:51] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:06:52] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:06:52] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:06:53] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:06:53] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:06:53] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:07:03] main.py:46 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:07:03] main.py:52 INFO - Last ID (VK) = 182935
+[05.02.2018 20:07:05] main.py:74 INFO - New last_id (VK) is 182935
+[05.02.2018 20:07:05] main.py:78 INFO - [VK] Finished scanning
+[05.02.2018 20:07:05] main.py:91 INFO - [App] Script went to sleep.
+[05.02.2018 20:07:06] main.py:46 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:07:06] main.py:52 INFO - Last ID (VK) = 182935
+[05.02.2018 20:07:06] main.py:74 INFO - New last_id (VK) is 182935
+[05.02.2018 20:07:06] main.py:78 INFO - [VK] Finished scanning
+[05.02.2018 20:07:06] main.py:91 INFO - [App] Script went to sleep.
+[05.02.2018 20:07:07] main.py:46 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:07:07] main.py:52 INFO - Last ID (VK) = 182935
+[05.02.2018 20:07:12] main.py:74 INFO - New last_id (VK) is 182935
+[05.02.2018 20:07:12] main.py:78 INFO - [VK] Finished scanning
+[05.02.2018 20:07:12] main.py:91 INFO - [App] Script went to sleep.
+[05.02.2018 20:07:13] main.py:46 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:07:13] main.py:52 INFO - Last ID (VK) = 182935
+[05.02.2018 20:07:14] main.py:74 INFO - New last_id (VK) is 182935
+[05.02.2018 20:07:14] main.py:78 INFO - [VK] Finished scanning
+[05.02.2018 20:07:14] main.py:91 INFO - [App] Script went to sleep.
+[05.02.2018 20:07:15] main.py:46 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:07:15] main.py:52 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:27] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:27] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:28] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:09:28] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:28] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:29] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:29] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:29] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:09:29] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:29] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:30] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:30] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:30] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:09:30] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:30] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:31] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:31] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:32] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:09:32] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:32] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:33] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:33] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:33] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:09:33] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:33] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:34] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:34] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:34] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:09:34] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:34] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:35] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:35] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:35] main.py:73 INFO - New last_id (VK) is 182935
+[05.02.2018 20:09:35] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:35] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:36] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:36] main.py:51 INFO - Last ID (VK) = 182935
+[05.02.2018 20:09:45] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:45] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:45] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:46] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:46] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:47] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:47] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:47] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:48] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:48] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:48] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:48] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:48] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:49] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:49] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:49] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:49] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:49] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:50] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:50] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:50] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:50] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:50] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:51] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:51] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:51] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:51] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:51] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:52] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:52] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:53] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:53] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:53] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:54] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:54] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:54] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:54] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:54] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:55] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:55] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:55] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:55] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:55] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:56] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:56] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:56] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:56] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:56] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:57] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:57] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:58] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:58] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:58] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:09:59] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:09:59] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:09:59] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:09:59] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:09:59] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:00] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:00] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:00] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:00] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:00] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:01] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:01] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:01] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:01] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:01] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:02] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:02] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:03] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:03] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:03] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:04] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:04] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:04] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:04] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:04] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:05] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:05] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:05] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:05] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:05] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:06] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:06] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:06] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:06] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:06] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:07] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:07] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:08] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:08] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:08] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:09] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:09] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:09] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:09] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:09] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:10] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:10] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:10] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:10] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:10] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:11] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:11] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:11] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:11] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:11] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:12] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:12] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:13] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:13] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:13] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:14] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:14] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:14] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:14] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:14] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:15] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:15] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:15] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:15] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:15] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:16] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:16] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:16] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:16] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:16] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:17] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:17] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:18] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:18] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:18] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:19] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:19] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:19] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:19] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:19] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:20] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:20] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:20] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:20] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:20] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:21] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:21] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:21] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:21] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:21] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:22] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:22] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:22] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:22] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:22] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:23] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:23] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:24] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:24] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:24] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:25] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:25] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:25] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:25] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:25] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:26] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:26] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:26] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:26] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:26] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:27] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:27] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:28] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:28] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:28] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:29] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:29] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:29] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:29] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:29] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:30] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:30] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:30] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:30] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:30] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:31] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:31] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:31] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:31] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:31] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:32] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:32] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:32] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:32] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:32] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:33] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:33] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:34] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:34] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:34] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:35] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:35] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:35] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:35] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:35] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:36] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:36] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:36] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:36] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:36] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:37] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:37] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:37] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:37] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:37] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:38] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:38] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:39] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:39] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:39] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:40] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:40] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:40] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:40] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:40] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:41] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:41] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:41] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:41] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:41] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:42] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:42] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:42] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:42] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:42] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:43] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:43] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:44] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:44] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:44] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:45] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:45] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:45] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:45] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:45] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:46] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:46] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:46] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:46] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:46] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:47] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:47] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:47] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:47] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:47] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:48] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:48] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:48] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:48] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:48] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:49] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:49] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:50] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:50] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:50] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:51] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:51] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:51] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:51] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:51] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:52] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:52] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:52] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:52] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:52] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:53] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:53] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:53] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:53] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:53] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:54] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:54] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:55] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:55] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:55] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:56] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:56] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:56] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:56] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:56] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:57] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:57] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:57] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:57] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:57] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:58] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:58] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:10:58] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:10:58] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:10:58] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:10:59] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:10:59] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:00] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:00] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:00] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:01] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:01] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:01] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:01] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:01] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:02] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:02] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:02] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:02] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:02] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:03] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:03] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:04] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:04] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:04] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:05] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:05] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:05] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:05] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:05] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:06] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:06] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:06] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:06] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:06] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:07] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:07] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:07] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:07] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:07] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:08] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:08] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:08] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:08] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:08] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:10] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:10] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:10] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:10] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:10] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:11] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:11] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:11] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:11] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:11] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:12] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:12] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:12] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:12] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:12] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:13] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:13] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:13] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:13] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:13] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:14] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:14] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:15] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:15] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:15] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:16] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:16] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:16] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:16] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:16] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:17] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:17] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:17] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:17] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:17] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:18] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:18] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:18] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:18] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:18] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:19] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:19] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:20] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:20] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:20] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:21] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:21] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:21] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:21] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:21] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:22] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:22] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:22] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:22] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:22] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:23] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:23] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:23] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:23] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:23] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:24] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:24] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:24] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:24] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:24] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:25] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:25] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:26] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:26] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:26] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:27] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:27] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:27] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:27] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:27] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:28] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:28] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:28] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:28] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:28] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:29] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:29] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:29] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:29] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:29] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:30] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:30] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:31] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:31] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:31] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:32] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:32] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:32] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:32] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:32] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:33] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:33] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:33] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:33] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:33] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:34] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:34] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:35] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:35] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:35] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:36] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:36] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:36] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:36] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:36] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:37] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:37] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:37] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:37] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:37] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:38] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:38] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:38] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:38] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:38] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:39] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:39] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:39] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:39] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:39] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:40] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:40] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:41] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:41] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:41] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:42] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:42] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:42] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:42] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:42] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:43] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:43] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:43] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:43] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:43] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:44] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:44] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:44] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:44] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:44] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:45] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:45] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:46] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:46] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:46] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:47] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:47] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:47] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:47] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:47] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:48] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:48] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:48] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:48] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:48] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:49] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:49] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:49] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:49] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:49] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:50] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:50] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:51] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:51] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:51] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:52] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:52] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:52] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:52] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:52] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:53] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:53] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:53] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:53] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:53] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:54] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:54] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:54] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:54] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:54] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:55] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:55] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:56] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:56] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:56] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:57] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:57] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:57] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:57] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:57] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:58] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:58] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:58] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:58] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:58] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:11:59] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:11:59] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:11:59] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:11:59] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:11:59] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:00] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:00] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:01] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:01] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:01] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:02] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:02] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:02] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:02] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:02] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:03] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:03] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:03] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:03] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:03] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:04] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:04] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:05] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:05] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:05] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:06] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:06] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:06] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:06] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:06] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:07] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:07] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:07] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:07] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:07] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:08] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:08] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:08] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:08] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:08] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:09] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:09] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:10] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:10] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:10] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:11] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:11] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:11] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:11] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:11] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:12] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:12] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:12] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:12] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:12] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:13] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:13] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:13] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:13] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:13] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:14] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:14] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:15] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:15] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:15] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:16] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:16] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:16] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:16] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:16] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:17] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:17] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:17] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:17] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:17] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:18] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:18] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:18] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:18] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:18] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:19] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:19] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:19] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:19] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:19] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:20] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:20] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:21] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:21] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:21] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:22] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:22] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:22] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:22] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:22] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:23] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:23] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:23] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:23] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:23] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:24] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:24] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:24] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:24] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:24] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:25] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:25] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:26] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:26] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:26] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:27] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:27] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:27] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:27] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:27] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:28] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:28] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:28] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:28] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:28] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:29] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:29] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:29] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:29] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:29] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:30] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:30] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:30] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:30] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:30] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:31] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:31] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:32] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:32] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:32] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:33] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:33] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:33] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:33] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:33] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:34] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:34] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:34] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:34] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:34] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:35] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:35] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:36] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:36] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:36] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:37] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:37] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:37] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:37] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:37] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:38] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:38] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:38] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:38] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:38] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:39] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:40] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:40] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:40] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:40] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:41] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:41] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:41] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:41] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:41] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:42] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:42] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:42] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:42] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:42] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:43] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:43] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:43] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:43] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:43] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:44] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:44] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:45] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:45] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:45] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:46] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:46] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:46] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:46] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:46] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:47] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:47] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:47] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:47] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:47] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:48] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:48] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:48] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:48] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:48] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:49] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:49] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:50] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:50] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:50] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:51] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:51] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:51] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:51] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:51] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:52] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:52] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:52] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:52] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:52] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:53] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:53] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:53] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:53] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:53] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:54] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:54] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:54] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:54] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:54] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:55] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:55] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:56] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:56] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:56] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:57] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:57] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:57] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:57] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:57] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:58] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:58] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:12:58] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:12:58] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:12:58] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:12:59] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:12:59] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:00] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:00] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:00] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:01] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:01] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:01] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:01] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:01] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:02] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:02] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:02] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:02] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:02] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:03] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:03] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:03] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:03] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:03] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:04] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:04] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:05] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:05] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:05] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:06] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:06] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:06] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:06] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:06] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:07] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:07] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:07] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:07] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:07] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:08] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:08] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:08] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:08] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:08] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:09] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:09] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:09] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:09] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:09] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:10] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:10] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:11] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:11] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:11] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:12] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:12] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:12] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:12] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:12] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:13] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:13] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:13] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:13] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:13] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:14] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:14] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:14] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:14] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:14] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:15] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:15] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:16] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:16] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:16] main.py:90 INFO - [App] Script went to sleep.
+[05.02.2018 20:13:17] main.py:45 INFO - [VK] Started scanning for new posts
+[05.02.2018 20:13:17] main.py:51 INFO - Last ID (VK) = 182975
+[05.02.2018 20:13:17] main.py:73 INFO - New last_id (VK) is 182975
+[05.02.2018 20:13:17] main.py:77 INFO - [VK] Finished scanning
+[05.02.2018 20:13:17] main.py:90 INFO - [App] Script went to sleep.
