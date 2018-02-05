@@ -7,7 +7,7 @@ from config import *
 from time import sleep
 SINGLE_RUN = False
 
-URL_VK = 'https://api.vk.com/method/wall.get?domain='+vk_short_link + '&count=10&filter=owner&access_token=' + vk_token
+URL_VK = 'https://api.vk.com/method/wall.get?domain='+vk_short_link + '&count=3&filter=owner&access_token=' + vk_token
 FILENAME_VK = 'last_known_id.txt'
 
 BOT_TOKEN = tg_bot_token
@@ -27,16 +27,18 @@ def get_data():
         timeout.cancel()
 def send_new_posts(items, last_id):
     for item in items:
-        if item['id'] <= last_id:
-            break
-        photo_url = item['attachment']['photo']['src_big']
-        text = item['text']
-        print(photo_url)
-        #link = '{!s}{!s}'.format(BASE_POST_URL, item['id'])
-        #bot.send_message(CHANNEL_NAME, link)
-        bot.send_photo(CHANNEL_NAME, photo=photo_url,caption=text)
+        try:
+            if item['id'] <= last_id:
+                break
+            photo_url = item['attachment']['photo']['src_big']
+            text = item['text']
+            print(photo_url)
+
+            bot.send_photo(CHANNEL_NAME, photo=photo_url,caption=text)
         # Спим секунду, чтобы избежать разного рода ошибок и ограничений (на всякий случай!)
-        time.sleep(1)
+            time.sleep(1)
+        except:
+            pass
     return
 
 
